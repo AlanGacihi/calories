@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 #define NUM_EXERCISES 37
 #define MAX_LINE 105

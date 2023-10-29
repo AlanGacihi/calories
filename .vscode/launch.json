@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ALAN/Desktop/fid_543523546_files",
-      "program": "c:/Users/ALAN/Desktop/fid_543523546_files/build/Debug/outDebug",
+      "cwd": "c:/Users/ALAN/Desktop/calories-546",
+      "program": "c:/Users/ALAN/Desktop/calories-546/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
