@@ -1,0 +1,74 @@
+Basketball, game
+8.0
+Bicycling: 12-13.9 mph (20-22km/h)
+8.0
+Bicycling: BMX or mountain
+8.5
+Bicycling: 14-15.9 mph (22-25 km/h)
+10.0
+Bicycling: 16-19 mph (25-30 km/h)
+12.0
+Bicycling: > 20 mph (>32 km/h)
+16.0
+Boxing, in the ring, general
+12.0
+Calisthenics (e.g. pushups, sit-ups, pullups, jumping jacks), heavy, vigorous effort
+8.0
+Circuit training, including some aerobic movement with minimal rest, general
+8.0
+Fast running, 10.9 mph (17.5 km/h)
+18.0
+Football, competitive
+9.0
+Jog/walk combination (jogging component of less than 10 minutes)
+6.0
+Jogging, in place or 5 mph (8 km/h)
+8.0
+Judo, jujitsu, karate, kickboxing, taekwondo
+10.0
+Mild stretching
+2.5
+Moderate walking, 3.5 mph, (5.6 km/h) uphill
+6.0
+Rope jumping, fast
+12.0
+Rope jumping, moderate, general
+10.0
+Running, 10 mph (16 km/h)
+16.0
+Running, 8 mph (around 13 km/h)
+13.5
+Running, stairs, up
+15.0
+Soccer, casual, general
+7.0
+Softball or baseball, fast or slow pitch, general
+5.0
+Stair-treadmill ergometer, general
+9.0
+Swim. laps, freestyle, slow, moderate or light effort
+7.0
+Swimming laps, freestyle, fast, vigorous effort
+10.0
+Swimming, leisurely, not lap swimming, general
+6.0
+Swimming, sidestroke, general
+8.0
+Tennis, general
+7.0
+Volleyball
+4.0
+Volleyball, beach
+8.0
+Walking for pleasure
+3.5
+Walking, 4.0 mph, (around 6.5 km/h) level, firm surface, very brisk pace
+5.0
+Walking, 5.0 mph (8 km/h)
+8.0
+Weightlifting (free weight, nautilus or universal-type), powerlifting or bodybuilding, vigorous effort
+6.0
+Wrestling (one match = 5 minutes)
+6.0
+Yoga
+2.5
