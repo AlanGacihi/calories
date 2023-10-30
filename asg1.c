@@ -55,19 +55,20 @@ int main() {
 }
 
 void readExerciseData(char exercises[][MAX_LINE], double metValues[]) {
-    for (int i = 1; i <= NUM_EXERCISES * 2; i++) {
-        if (i % 2 == 0) {
-            // Read exercise name with spaces
-            fgets(exercises[i / 2 - 1], MAX_LINE, stdin);
-            // Remove the trailing newline character
-            exercises[i / 2 - 1][strcspn(exercises[i / 2 - 1], "\n")] = '\0';
-        } else {
-            // Read MET value
-            scanf("%lf", &metValues[i / 2 - 1]);
-        }
+    char temp[MAX_LINE];
+    double metValue;
+
+    for (int i = 0; i < NUM_EXERCISES * 2; i++) {
+        // Read exercise name with spaces
+        fgets(exercises[i], MAX_LINE, stdin);
+        // Remove the trailing newline character
+        exercises[i][strcspn(exercises[i / 2 - 1], "\n")] = '\0';
+        // Read MET value
+        scanf("%lf", &metValues[i / 2 - 1]);
+
+        fgets(temp, MAX_LINE, stdin);
+        scanf("%lf", &metValue);
+
+
     }
-    for (int i = 0; i <= NUM_EXERCISES; i++) {
-        printf("%lf\n", metValues[i]);
-    }
-    
 }
