@@ -67,7 +67,7 @@ void readExerciseData(char exercises[][MAX_LINE], double metValues[]) {
         }
     }
     for (int i = 0; i <= NUM_EXERCISES; i++) {
-        printf("%lf", metValues[i]);
+        printf("%lf\n", metValues[i]);
     }
     
 }
